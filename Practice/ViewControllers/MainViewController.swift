@@ -12,7 +12,7 @@ class MainViewController: UIViewController {
     
     let titleLabel: UILabel = {
         let label = UILabel()
-        label.textColor = .black
+        label.textColor = .blue
         label.textAlignment = .center
         label.text = "메인화면"
         label.font = UIFont.boldSystemFont(ofSize: 70)
